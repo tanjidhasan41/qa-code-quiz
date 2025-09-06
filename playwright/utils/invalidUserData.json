@@ -1,0 +1,31 @@
+[
+        {
+            "username": "",
+            "password": ""
+        },
+
+        {
+            "username" : "SomeUser_name",
+            "password": ""
+        },
+
+        {
+            "username" : "",
+            "password" : "TopSecret1234!"
+        },
+        
+        {
+            "username" : "dummytree",
+            "password" : "wrong1234"
+        },
+
+        {
+            "username" : "wrongUser",
+            "password" : "test1"
+        },
+
+        {
+            "username": "demotestuser",
+            "password": "demotest1"
+        }
+]

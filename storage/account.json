@@ -11,5 +11,11 @@
         "favouriteFruit": "Mango",
         "favouriteMovie": "V for Vendetta",
         "favouriteNumber": "The last prime number"
+    },
+    "demo_user1": {
+        "name": "Updated Demo User",
+        "password": "demo321!",
+        "favouriteFruit": "Apple",
+        "favouriteNumber": 41
     }
 }
