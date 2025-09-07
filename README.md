@@ -60,3 +60,6 @@ npx playwright test <file name>
 ```
 ### API Testing Report
 <img width="1989" height="1351" alt="image" src="https://github.com/user-attachments/assets/0a2311a2-3b0b-4077-bb9e-83906df59926" />
+
+## Test Cases
+https://docs.google.com/spreadsheets/d/1PJRPmXODYloLtQ9RjQescT5FdJzvPPFVHM8MHyYTDsM/edit?usp=sharing
